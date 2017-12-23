@@ -1,8 +1,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Date: December 11 2017
-# Number of unique domains: 42,924
+# Date: December 21 2017
+# Number of unique domains: 42,964
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -5101,7 +5101,7 @@ fe80::1%lo0 localhost
 
 ###################################################
 
-### Version: V1.2017.12.996
+### Version: V1.2017.12.1036
 
 ##### Version Information ##
 
@@ -5327,6 +5327,7 @@ fe80::1%lo0 localhost
 0.0.0.0 8899804.com
 0.0.0.0 8fvchzuz.myutilitydomain.com
 0.0.0.0 8gold.com
+0.0.0.0 8jn.dating-app.ru
 0.0.0.0 8khmer.com
 0.0.0.0 8lufu.com
 0.0.0.0 8rf.com
@@ -7260,6 +7261,7 @@ fe80::1%lo0 localhost
 0.0.0.0 chlooe.com
 0.0.0.0 chlp.de
 0.0.0.0 chocolateslim-en-espana.com
+0.0.0.0 chocolateslim-en-france.com
 0.0.0.0 chocolateslim-original.com
 0.0.0.0 chocolateslim-u-srbiji.com
 0.0.0.0 chocoslim.pro
@@ -9192,6 +9194,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ge0ip.org
 0.0.0.0 gebrauchtwarenmarkt.de
 0.0.0.0 geeksdrivesavers.com
+0.0.0.0 gefc.gdn
 0.0.0.0 gei7oos.top
 0.0.0.0 geilehausfrauen.net
 0.0.0.0 geileweiber.tk
@@ -11139,6 +11142,7 @@ fe80::1%lo0 localhost
 0.0.0.0 lovelycraftyhome.com
 0.0.0.0 lovelywholesae.com
 0.0.0.0 loveourwaters.com
+0.0.0.0 lovi-moment.com.ua
 0.0.0.0 lovpoint.de
 0.0.0.0 lowcountrytile.com
 0.0.0.0 lowephotos.info
@@ -12606,6 +12610,7 @@ fe80::1%lo0 localhost
 0.0.0.0 parapanta.md
 0.0.0.0 parenetpay.com
 0.0.0.0 parfuemtest.de
+0.0.0.0 parfusale.se
 0.0.0.0 paris2.fr
 0.0.0.0 parisgroup.ae
 0.0.0.0 park.above.com
@@ -14745,6 +14750,7 @@ fe80::1%lo0 localhost
 0.0.0.0 superfish.com
 0.0.0.0 superinterstitial.com
 0.0.0.0 superkanpo.com
+0.0.0.0 supermama.top
 0.0.0.0 supermesta.ru
 0.0.0.0 supernew.org
 0.0.0.0 supersadovnik.net
@@ -15140,6 +15146,7 @@ fe80::1%lo0 localhost
 0.0.0.0 tirka.com
 0.0.0.0 titan-ads.life
 0.0.0.0 titan-cloud.life
+0.0.0.0 titangel-vietnam.com
 0.0.0.0 titanmatch.com
 0.0.0.0 titelhelden.eu
 0.0.0.0 titfuck.nu
@@ -16545,6 +16552,7 @@ fe80::1%lo0 localhost
 0.0.0.0 xsion.net
 0.0.0.0 x-stars.ru
 0.0.0.0 xtd.com.au
+0.0.0.0 xtremeeagles.net
 0.0.0.0 xtube.com
 0.0.0.0 xtubeporno.net
 0.0.0.0 xuenvwg.com
@@ -16606,6 +16614,7 @@ fe80::1%lo0 localhost
 0.0.0.0 yie4zooseif.info
 0.0.0.0 yiexua8.top
 0.0.0.0 yifgbtboi.top
+0.0.0.0 yipzz.svwfchblozx09.gefc.gdn
 0.0.0.0 ykxo.com
 0.0.0.0 ynymnwbm.bloger.index.hr
 0.0.0.0 yodo.ro
@@ -34108,7 +34117,7 @@ fe80::1%lo0 localhost
 
 
 
-# Last updated: Thu, 07 Dec 2017 at 04:58:40 GMT
+# Last updated: Thu, 21 Dec 2017 at 06:29:55 GMT
 
 
 
@@ -34653,7 +34662,9 @@ fe80::1%lo0 localhost
 0.0.0.0 cashcounter.com
 0.0.0.0 cb1.counterbot.com
 0.0.0.0 cdn.oggifinogi.com
+0.0.0.0 cdns.gigya.com
 0.0.0.0 cdn-social.janrain.com
+0.0.0.0 cdn.zarget.com
 0.0.0.0 cdxbin.vulnerap.com
 0.0.0.0 cf.addthis.com
 0.0.0.0 cgicounter.onlinehome.de
@@ -37530,6 +37541,7 @@ fe80::1%lo0 localhost
 0.0.0.0 a3.websponsors.com
 0.0.0.0 a4.websponsors.com
 0.0.0.0 a5.websponsors.com
+0.0.0.0 a7cleaner.com
 0.0.0.0 a98spolicies.com
 0.0.0.0 a.admaxserver.com
 0.0.0.0 a.ad.playstation.net
@@ -39558,6 +39570,7 @@ fe80::1%lo0 localhost
 0.0.0.0 applicationpremium70.club
 0.0.0.0 applyfix.tech
 0.0.0.0 appnexus.com
+0.0.0.0 appodeal.com
 0.0.0.0 apps5.oingo.com
 0.0.0.0 appsrv1.madserving.cn
 0.0.0.0 a.prisacom.com
@@ -40496,6 +40509,7 @@ fe80::1%lo0 localhost
 0.0.0.0 fif49.info
 0.0.0.0 file.ipinyou.com.cn
 0.0.0.0 files.adbrite.com
+0.0.0.0 filmes-hd.com
 0.0.0.0 fin.adbureau.net
 0.0.0.0 finance-offer.com
 0.0.0.0 finanzmeldungen.com
@@ -41364,6 +41378,7 @@ fe80::1%lo0 localhost
 0.0.0.0 mobileanalytics.us-east-2.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-west-2.amazonaws.com
+0.0.0.0 mobile.bet.pt
 0.0.0.0 mobrevflwms.com
 0.0.0.0 mobscan.info
 0.0.0.0 mobularity.com
@@ -41905,6 +41920,8 @@ fe80::1%lo0 localhost
 0.0.0.0 pr.ydp.yahoo.com
 0.0.0.0 pstatic.datafastguru.info
 0.0.0.0 pt21na.com
+0.0.0.0 pt5.titans-gel.net
+0.0.0.0 pt.beststreams.club
 0.0.0.0 ptrads.mp3.com
 0.0.0.0 ptreklam.com
 0.0.0.0 ptreklam.com.tr
@@ -42129,6 +42146,7 @@ fe80::1%lo0 localhost
 0.0.0.0 s2.buysellads.com
 0.0.0.0 s3.adbers.com
 0.0.0.0 s5.addthis.com
+0.0.0.0 s7clean.com
 0.0.0.0 s.ad121m.com
 0.0.0.0 s.ad131m.com
 0.0.0.0 s.admob.com
@@ -42586,6 +42604,7 @@ fe80::1%lo0 localhost
 0.0.0.0 thoughtfully-free.com
 0.0.0.0 timelywebsitehostesses.com
 0.0.0.0 tiqcdn.com
+0.0.0.0 titan-gel-extra.com
 0.0.0.0 tk.baidu.com
 0.0.0.0 tkweb.baidu.com
 0.0.0.0 t.mdn2015x1.com
@@ -45877,7 +45896,6 @@ fe80::1%lo0 localhost
 0.0.0.0 analyticsapi.bsbportal.com
 0.0.0.0 anayltics.kuikr.com
 0.0.0.0 zarget.com
-0.0.0.0 cdn.zarget.com
 
 
 # JS based cryptocurrency mining sites
@@ -46050,9 +46068,9 @@ fe80::1%lo0 localhost
 
 # ----
 
-# last updated:   Sat, 09 Dec 2017 12:41:53 GMT
+# last updated:   Sat, 16 Dec 2017 16:50:21 GMT
 
-# entries:        2508
+# entries:        2533
 
 # format:         hosts (hosts -- in hosts file format)
 
@@ -46066,7 +46084,7 @@ fe80::1%lo0 localhost
 
 #
 
-# start date:    Tue, 16 Dec 1997 00:00:00
+# start date:    Fri, 26 Dec 1997 00:00:00
 
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -46110,6 +46128,7 @@ fe80::1%lo0 localhost
 0.0.0.0 acuty1adsrv.com
 0.0.0.0 ad-balancer.at
 0.0.0.0 ad-center.com
+0.0.0.0 ad-miner.com
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-server.gulasidorna.se
 0.0.0.0 ad-space.net
@@ -46270,7 +46289,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.appsgeyser.com
 0.0.0.0 ads.batpmturner.com
-0.0.0.0 ads.beenetworks.net
 0.0.0.0 ads.berlinonline.de
 0.0.0.0 ads.betfair.com.au
 0.0.0.0 ads.bigchurch.com
@@ -46530,7 +46548,6 @@ fe80::1%lo0 localhost
 0.0.0.0 amazingcounters.com
 0.0.0.0 ambitiousagreement.com
 0.0.0.0 americash.com
-0.0.0.0 anahtars.com
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.yahoo.com
@@ -46553,6 +46570,7 @@ fe80::1%lo0 localhost
 0.0.0.0 auto-bannertausch.de
 0.0.0.0 autohits.dk
 0.0.0.0 avenuea.com
+0.0.0.0 avocet.io
 0.0.0.0 avres.net
 0.0.0.0 avsads.com
 0.0.0.0 avzadsrv.com
@@ -46647,6 +46665,7 @@ fe80::1%lo0 localhost
 0.0.0.0 boom.ro
 0.0.0.0 boomads.com
 0.0.0.0 boost-my-pr.de
+0.0.0.0 boudja.com
 0.0.0.0 bpath.com
 0.0.0.0 braincash.com
 0.0.0.0 brandreachsys.com
@@ -46696,6 +46715,7 @@ fe80::1%lo0 localhost
 0.0.0.0 chinchickens.com
 0.0.0.0 chitika.net
 0.0.0.0 christingel.com
+0.0.0.0 cinstein.com
 0.0.0.0 cj.com
 0.0.0.0 cjbmanagement.com
 0.0.0.0 cjlog.com
@@ -46731,6 +46751,8 @@ fe80::1%lo0 localhost
 0.0.0.0 cliksolution.com
 0.0.0.0 clixgalore.com
 0.0.0.0 clk.konflab.com
+0.0.0.0 cloudcoins.biz
+0.0.0.0 cloudcoins.co
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 cnt.spbland.ru
 0.0.0.0 code-server.biz
@@ -46763,6 +46785,7 @@ fe80::1%lo0 localhost
 0.0.0.0 cpays.com
 0.0.0.0 cpmaffiliation.com
 0.0.0.0 cpmstar.com
+0.0.0.0 cpx.to
 0.0.0.0 cpxinteractive.com
 0.0.0.0 crakmedia.com
 0.0.0.0 craktraffic.com
@@ -46775,6 +46798,7 @@ fe80::1%lo0 localhost
 0.0.0.0 credishe.com
 0.0.0.0 criteo.com
 0.0.0.0 critictruck.com
+0.0.0.0 croissed.info
 0.0.0.0 crownclam.com
 0.0.0.0 ctnet2.in
 0.0.0.0 ctnetwork.hu
@@ -46859,6 +46883,7 @@ fe80::1%lo0 localhost
 0.0.0.0 euros4click.de
 0.0.0.0 eusta.de
 0.0.0.0 evergage.com
+0.0.0.0 evidon.com
 0.0.0.0 ewebcounter.com
 0.0.0.0 exchange-it.com
 0.0.0.0 exchangead.com
@@ -46883,6 +46908,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 fimserve.com
 0.0.0.0 findcommerce.com
+0.0.0.0 findepended.com
 0.0.0.0 findyourcasino.com
 0.0.0.0 fineclicks.com
 0.0.0.0 first.nova.cz
@@ -46967,7 +46993,6 @@ fe80::1%lo0 localhost
 0.0.0.0 hotlog.ru
 0.0.0.0 hotrank.com.tw
 0.0.0.0 hs-analytics.net
-0.0.0.0 htmlhubing.xyz
 0.0.0.0 httpool.com
 0.0.0.0 hurricanedigitalmedia.com
 0.0.0.0 hydramedia.com
@@ -47084,6 +47109,7 @@ fe80::1%lo0 localhost
 0.0.0.0 loudloss.com
 0.0.0.0 lp3tdqle.com
 0.0.0.0 lucidmedia.com
+0.0.0.0 lucklayed.info
 0.0.0.0 lumpyleaf.com
 0.0.0.0 m4n.nl
 0.0.0.0 madisonavenue.com
@@ -47117,6 +47143,7 @@ fe80::1%lo0 localhost
 0.0.0.0 mediascale.de
 0.0.0.0 mediaserver.bwinpartypartners.it
 0.0.0.0 mediatext.com
+0.0.0.0 mediatrking.com
 0.0.0.0 mediavoice.com
 0.0.0.0 mediax.angloinfo.com
 0.0.0.0 mediaz.angloinfo.com
@@ -47149,6 +47176,7 @@ fe80::1%lo0 localhost
 0.0.0.0 mpstat.us
 0.0.0.0 mr-rank.de
 0.0.0.0 mrskincash.com
+0.0.0.0 mtrcs.samba.tv
 0.0.0.0 musiccounter.ru
 0.0.0.0 muwmedia.com
 0.0.0.0 myaffiliateprogram.com
@@ -47186,6 +47214,7 @@ fe80::1%lo0 localhost
 0.0.0.0 newbie.com
 0.0.0.0 newnet.qsrch.com
 0.0.0.0 newnudecash.com
+0.0.0.0 newstarads.com
 0.0.0.0 newtopsites.com
 0.0.0.0 nexage.com
 0.0.0.0 nitroclicks.com
@@ -47226,6 +47255,7 @@ fe80::1%lo0 localhost
 0.0.0.0 owneriq.net
 0.0.0.0 oxado.com
 0.0.0.0 pagead.l.google.com
+0.0.0.0 pagefair.net
 0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank-submitter.de
 0.0.0.0 pagerank-united.de
@@ -47254,6 +47284,7 @@ fe80::1%lo0 localhost
 0.0.0.0 performancerevenue.com
 0.0.0.0 performancerevenues.com
 0.0.0.0 performancing.com
+0.0.0.0 permutive.com
 0.0.0.0 pgmediaserve.com
 0.0.0.0 pgpartner.com
 0.0.0.0 pheedo.com
@@ -47289,6 +47320,7 @@ fe80::1%lo0 localhost
 0.0.0.0 primaryads.com
 0.0.0.0 primetime.net
 0.0.0.0 privatecash.com
+0.0.0.0 privy.com
 0.0.0.0 pro-advertising.com
 0.0.0.0 pro.i-doctor.co.kr
 0.0.0.0 proext.com
@@ -47315,6 +47347,7 @@ fe80::1%lo0 localhost
 0.0.0.0 pub.realmedia.fr
 0.0.0.0 publicidad.elmundo.es
 0.0.0.0 pubmatic.com
+0.0.0.0 pushcrew.com
 0.0.0.0 pushengage.com
 0.0.0.0 qctop.com
 0.0.0.0 qnsr.com
@@ -47417,6 +47450,7 @@ fe80::1%lo0 localhost
 0.0.0.0 shakytaste.com
 0.0.0.0 shareadspace.com
 0.0.0.0 sharepointads.com
+0.0.0.0 sharethrough.com
 0.0.0.0 shelterstraw.com
 0.0.0.0 sher.index.hu
 0.0.0.0 shinystat.com
@@ -47500,6 +47534,7 @@ fe80::1%lo0 localhost
 0.0.0.0 surfmusik-adserver.de
 0.0.0.0 swan-swan-goose.com
 0.0.0.0 swissadsolutions.com
+0.0.0.0 switchadhub.com
 0.0.0.0 swordfishdc.com
 0.0.0.0 sx.trhnt.com
 0.0.0.0 t.insigit.com
@@ -47535,6 +47570,7 @@ fe80::1%lo0 localhost
 0.0.0.0 tinybar.com
 0.0.0.0 tizers.net
 0.0.0.0 tlvmedia.com
+0.0.0.0 tnkexchange.com
 0.0.0.0 tntclix.co.uk
 0.0.0.0 top-casting-termine.de
 0.0.0.0 top-site-list.com
@@ -47542,6 +47578,7 @@ fe80::1%lo0 localhost
 0.0.0.0 top123.ro
 0.0.0.0 top20free.com
 0.0.0.0 top90.ro
+0.0.0.0 topacity.info
 0.0.0.0 topbarh.box.sk
 0.0.0.0 topbucks.com
 0.0.0.0 topforall.com
@@ -47566,6 +47603,7 @@ fe80::1%lo0 localhost
 0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking101.com
 0.0.0.0 trackingsoft.com
+0.0.0.0 trackjs.com
 0.0.0.0 trackmysales.com
 0.0.0.0 tradeadexchange.com
 0.0.0.0 traffic-exchange.com
@@ -47625,6 +47663,7 @@ fe80::1%lo0 localhost
 0.0.0.0 vertadnet.com
 0.0.0.0 veruta.com
 0.0.0.0 vervewireless.com
+0.0.0.0 videoadex.com
 0.0.0.0 videoegg.com
 0.0.0.0 view4cash.de
 0.0.0.0 viewpoint.com
@@ -47718,6 +47757,7 @@ fe80::1%lo0 localhost
 0.0.0.0 zeusclicks.com
 0.0.0.0 zintext.com
 0.0.0.0 zmedia.com
+0.0.0.0 zqtk.net
 0.0.0.0 zv1.november-lax.com
 # blacklist
 

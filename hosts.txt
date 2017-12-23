@@ -742,6 +742,7 @@ ff02::2   ip6-allrouters
 0.0.0.0 8d6274.t.axf8.net
 0.0.0.0 8fvchzuz.myutilitydomain.com
 0.0.0.0 8gold.com
+0.0.0.0 8jn.dating-app.ru
 0.0.0.0 8khmer.com
 0.0.0.0 8lufu.com
 0.0.0.0 8rf.com
@@ -1037,6 +1038,7 @@ ff02::2   ip6-allrouters
 0.0.0.0 a5face-podgladacz.eu
 0.0.0.0 a6face-podgladacz.eu
 0.0.0.0 a796faee-7163-4757-a34f-e5b48cada4cb.statcamp.net
+0.0.0.0 a7cleaner.com
 0.0.0.0 a98spolicies.com
 0.0.0.0 aa-d.openx.net
 0.0.0.0 aa-gb.marketgid.com
@@ -2890,7 +2892,6 @@ ff02::2   ip6-allrouters
 0.0.0.0 ads.bcnewsgroup.com
 0.0.0.0 ads.be2hand.com
 0.0.0.0 ads.beeb.com
-0.0.0.0 ads.beenetworks.net
 0.0.0.0 ads.beliefnet.com
 0.0.0.0 ads.belointeractive.com
 0.0.0.0 ads.benefitspro.com
@@ -6146,7 +6147,6 @@ ff02::2   ip6-allrouters
 0.0.0.0 ana-fashion.com
 0.0.0.0 anaco.jp
 0.0.0.0 anad.tacoda.net
-0.0.0.0 anahtars.com
 0.0.0.0 anaksma.info
 0.0.0.0 anal-acrobats.com
 0.0.0.0 analxxxclipsyjh.dnset.com
@@ -6737,6 +6737,7 @@ ff02::2   ip6-allrouters
 0.0.0.0 applyexploercard.com
 0.0.0.0 applyfix.tech
 0.0.0.0 appnexus.com
+0.0.0.0 appodeal.com
 0.0.0.0 apponic.com
 0.0.0.0 apprep.smartscreen.microsoft.com
 0.0.0.0 approved.su
@@ -10493,6 +10494,7 @@ ff02::2   ip6-allrouters
 0.0.0.0 cdnmedia.xyz
 0.0.0.0 cdnnetwok.xyz
 0.0.0.0 cdns.amgdgt.com
+0.0.0.0 cdns.gigya.com
 0.0.0.0 cdns.mydirtyhobby.com
 0.0.0.0 cdns.privatamateure.com
 0.0.0.0 cdnssl.clicktale.net
@@ -10794,6 +10796,7 @@ ff02::2   ip6-allrouters
 0.0.0.0 chlooe.com
 0.0.0.0 chlp.de
 0.0.0.0 chocolateslim-en-espana.com
+0.0.0.0 chocolateslim-en-france.com
 0.0.0.0 chocolateslim-original.com
 0.0.0.0 chocolateslim-u-srbiji.com
 0.0.0.0 chocoslim.pro
@@ -15812,6 +15815,7 @@ ff02::2   ip6-allrouters
 0.0.0.0 filmasy.pl
 0.0.0.0 filmbokep69.com
 0.0.0.0 filmdrunk.us.intellitxt.com
+0.0.0.0 filmes-hd.com
 0.0.0.0 filmetricsasia.com
 0.0.0.0 filmfanatic.com
 0.0.0.0 filmforcedvd.ign.us.intellitxt.com
@@ -17019,6 +17023,7 @@ ff02::2   ip6-allrouters
 0.0.0.0 geek24.pl
 0.0.0.0 geeksdrivesavers.com
 0.0.0.0 geekstogo.us.intellitxt.com
+0.0.0.0 gefc.gdn
 0.0.0.0 gei7oos.top
 0.0.0.0 geil.alon3.tk
 0.0.0.0 geilehausfrauen.net
@@ -18823,7 +18828,6 @@ ff02::2   ip6-allrouters
 0.0.0.0 htmlads.ru
 0.0.0.0 htmlads.s3.amazonaws.com
 0.0.0.0 htmlcorner.com
-0.0.0.0 htmlhubing.xyz
 0.0.0.0 htmlpro.ru
 0.0.0.0 htmltopdf.in
 0.0.0.0 htmlwww.youfck.com
@@ -22235,6 +22239,7 @@ ff02::2   ip6-allrouters
 0.0.0.0 lovendo.it
 0.0.0.0 loveourwaters.com
 0.0.0.0 lovetrust.ru
+0.0.0.0 lovi-moment.com.ua
 0.0.0.0 lovpoint.de
 0.0.0.0 low-format.ru
 0.0.0.0 low-hacker.popunder.ru
@@ -24253,6 +24258,7 @@ ff02::2   ip6-allrouters
 0.0.0.0 mobile-redirection.com
 0.0.0.0 mobile.activeshopper.com
 0.0.0.0 mobile.banzai.it
+0.0.0.0 mobile.bet.pt
 0.0.0.0 mobile.bitterstrawberry.org
 0.0.0.0 mobile.free.espaceabonne.info
 0.0.0.0 mobile.ivwbox.de
@@ -27448,6 +27454,7 @@ ff02::2   ip6-allrouters
 0.0.0.0 parenetpay.com
 0.0.0.0 parent.oewabox.at
 0.0.0.0 parfuemtest.de
+0.0.0.0 parfusale.se
 0.0.0.0 paris2.fr
 0.0.0.0 parisgroup.ae
 0.0.0.0 park.above.com
@@ -29191,9 +29198,11 @@ ff02::2   ip6-allrouters
 0.0.0.0 psvita.ru
 0.0.0.0 psx.ign.us.intellitxt.com
 0.0.0.0 psy.mtree.com
+0.0.0.0 pt.beststreams.club
 0.0.0.0 pt.peerius.com
 0.0.0.0 pt.trafficjunky.net
 0.0.0.0 pt21na.com
+0.0.0.0 pt5.titans-gel.net
 0.0.0.0 ptads.sv.publicus.com
 0.0.0.0 ptarepjx.com
 0.0.0.0 ptcbristol.com
@@ -31054,6 +31063,7 @@ ff02::2   ip6-allrouters
 0.0.0.0 s7.cnzz.com
 0.0.0.0 s70.cnzz.com
 0.0.0.0 s76.cnzz.com
+0.0.0.0 s7clean.com
 0.0.0.0 s8-nowy-wygraj.comli.com
 0.0.0.0 s8.cnzz.com
 0.0.0.0 s80.cnzz.com
@@ -34298,6 +34308,7 @@ ff02::2   ip6-allrouters
 0.0.0.0 superinterstitial.com
 0.0.0.0 superiqtest.pl
 0.0.0.0 superkanpo.com
+0.0.0.0 supermama.top
 0.0.0.0 supermarket.zostan-zwyciezca.com
 0.0.0.0 supermed.oewabox.at
 0.0.0.0 supermesta.ru
@@ -35532,8 +35543,10 @@ ff02::2   ip6-allrouters
 0.0.0.0 tiscaliadv01.webtrekk.net
 0.0.0.0 titan-ads.life
 0.0.0.0 titan-cloud.life
+0.0.0.0 titan-gel-extra.com
 0.0.0.0 titan.advertserve.com
 0.0.0.0 titangate-d.openx.net
+0.0.0.0 titangel-vietnam.com
 0.0.0.0 titanmatch.com
 0.0.0.0 titelhelden.eu
 0.0.0.0 titfuck.nu
@@ -39844,6 +39857,7 @@ ff02::2   ip6-allrouters
 0.0.0.0 xtendmedia.com
 0.0.0.0 xtesty.pl
 0.0.0.0 xtrafic.ro
+0.0.0.0 xtremeeagles.net
 0.0.0.0 xtremetop100.com
 0.0.0.0 xtube.com
 0.0.0.0 xtubeporno.net
@@ -39999,6 +40013,7 @@ ff02::2   ip6-allrouters
 0.0.0.0 yifgbtboi.top
 0.0.0.0 yigitakcali.com
 0.0.0.0 ying.hitbox.com
+0.0.0.0 yipzz.svwfchblozx09.gefc.gdn
 0.0.0.0 yitkomfj.angelcities.com
 0.0.0.0 yk.handlerhackz.tk
 0.0.0.0 ykxo.com

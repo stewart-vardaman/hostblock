@@ -13,16 +13,16 @@
 # As of Dec 13th 2017, yoyo has 13 hosts that the other block
 # lists don't (adotmob.com for example). For now, add yoyo.
 
-# wget -O yoyo.txt \
-#    --no-check-certificate \
-#    https://pgl.yoyo.org/as/serverlist.php?showintro=0
+ wget -O yoyo.txt \
+    --no-check-certificate \
+    https://pgl.yoyo.org/as/serverlist.php?showintro=0
 grep -E "127.0.0.1 " yoyo.txt | \
   sed 's/127.0.0.1 /0.0.0.0 /g' \
   > ctmp.txt
 
-# wget -O black.txt \
-#   --no-check-certificate \
-#   https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+ wget -O black.txt \
+   --no-check-certificate \
+   https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
 grep -E -v "0.0.0.0 0.0.0.0" black.txt | \
   grep -E "0.0.0.0 " \

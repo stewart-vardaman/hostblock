@@ -74,7 +74,7 @@ awk '{print "0.0.0.0 " $1}' final-hosts.txt >> hosts.txt
 
 # Make DNSMasq address block list
 awk '{print "address=/" $1 "/0.0.0.0"}' final-dns.txt > /etc/dnsmasq.d/blocklist.conf
-service dnsmasq restart
+sudo service dnsmasq restart
 
 # -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
